@@ -1,0 +1,55 @@
+input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    background-color: black;
+    color: aliceblue;
+}
+
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px; 
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    background-color: black;
+    color: aliceblue;
+}
+
+.imgcontainer {
+    text-align: center;
+    margin: 24px 0 12px 0;
+}
+
+.login{
+    text-align: center;
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+}
+
+header{
+    text-align: center;
+    background-color: 
+    color: antiquewhite;
+    font-style: italic;
+    font-size: xx-large;
+}
+
+body{
+    background-color: chartreuse;
+}
+
+button{
+    background-color: black;
+    color: aliceblue;
+    padding: 14px 20px;
+    margin: 8px;
+    border: none;
+    cursor: pointer;
+    width: 50%;
+}

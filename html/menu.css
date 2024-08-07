@@ -1,0 +1,15 @@
+header{
+    text-align: center;
+    background-color: black;
+    color: rgb(216, 236, 32);
+    padding: 40px;
+    justify-content: space-between;
+    width: 100%;
+    margin: 20px;
+}
+
+ul{
+    list-style: none;
+    padding: 30px;
+    margin: -30px;
+}
